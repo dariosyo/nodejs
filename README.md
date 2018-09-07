@@ -28,6 +28,6 @@
 
     to install these npm packages run the following command.
 
-npm install 
-npm install prompt
-npm install mysql
+    npm install 
+    npm install prompt
+    npm install mysql
