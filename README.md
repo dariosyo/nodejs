@@ -1,4 +1,4 @@
-# homework assignment:
+# Bamazon
 ## Node.js & MySQL
 ### Introduction
 
